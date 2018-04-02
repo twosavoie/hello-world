@@ -10,3 +10,4 @@ going to click around a little
 ok, so I can keep branch? why? huh.
 so this is my first commit right?
 and this is my second commit right?
+and the third
