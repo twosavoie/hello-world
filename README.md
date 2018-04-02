@@ -5,3 +5,4 @@ just trying to figure out how to make this all work
 continuous practice
 starting to see what is happening
 this is starting to feel more comfortable
+I think I've almost got it
