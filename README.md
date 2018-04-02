@@ -8,3 +8,4 @@ this is starting to feel more comfortable
 I think I've almost got it
 going to click around a little
 ok, so I can keep branch? why? huh.
+so this is my first commit right?
