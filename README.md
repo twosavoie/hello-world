@@ -12,3 +12,4 @@ so this is my first commit right?
 and this is my second commit right?
 and the third
 so time to create a pull request
+merged with master
